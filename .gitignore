@@ -1,0 +1,15 @@
+src/lib/node_modules
+.DS_Store
+bundle.js
+dist/
+public/*.js
+bower_components
+__pycache__
+*.pyc
+bin
+obj
+*.db
+*.sqlite3
+.vscode
+api/
+public/bundle.js
